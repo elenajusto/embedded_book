@@ -1,0 +1,4 @@
+//1: Include the stm32f4 header file
+#include "stm32f4xx.h"
+
+//2: Bit mask for enabling GPIOA (bit 0)
