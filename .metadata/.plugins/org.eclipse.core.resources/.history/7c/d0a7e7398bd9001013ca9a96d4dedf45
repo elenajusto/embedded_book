@@ -1,9 +1,0 @@
-#include "gpio.h"
-
-#define GPIOAEN (1U<<0)
-#define LED_BS5 (1U<<5) /*Bit Set Pin 5*/
-#define LED_BR5 (1U<<21) /*Bit Reset Pin 5*/
-
-void led_init(void) {
-
-}

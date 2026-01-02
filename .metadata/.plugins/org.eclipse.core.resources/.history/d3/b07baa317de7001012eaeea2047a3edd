@@ -1,0 +1,7 @@
+#include <stdint.h>
+#include "uart.h"
+
+#define GPIOAEN (1U<<0)
+#define UART2EN (1U<<17)
+
+#define DBG_UART_BAUDRATE 115200

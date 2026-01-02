@@ -1,3 +1,0 @@
-#include "gpio.h"
-
-#define GPIOAEN (1U<<0)
